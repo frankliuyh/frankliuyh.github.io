@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>https://www.frankliuyh.com/2018/04/07/gorgeous-Mavis/</loc>
+    <lastmod>2018-04-08T07:00:14.553Z</lastmod>
+    <data>
+        <display>
+        <title>婉宝宝最美啦~</title>
+        <pubTime>2018-04-07T12:15:40.000Z</pubTime>
+        
+        <tag>Mavis</tag>
+         
+         
+           
+             
+              <breadCrumb title="Life" url="https://www.frankliuyh.com/categories/Life/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>https://www.frankliuyh.com/2018/04/07/hello-world/</loc>
+    <lastmod>2018-04-07T12:33:07.947Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-04-07T08:10:37.000Z</pubTime>
+        
+        <tag>Testing</tag>
+         
+         
+           
+             
+              <breadCrumb title="Testing" url="https://www.frankliuyh.com/categories/Testing/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+</urlset>
