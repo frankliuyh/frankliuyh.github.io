@@ -1704,7 +1704,7 @@ pre .javascript .function {
   z-index: 9999;
   display: block;
   width: 0;
-  height: 10px;
+  height: 2px;
   background: #37c6c0;
 }
 .sidebar {
@@ -1875,7 +1875,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #164eff;
+  background: #9e8acf;
 }
 .links-of-blogroll {
   font-size: 13px;
